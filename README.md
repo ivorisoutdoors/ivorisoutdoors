@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [refactor(brew): add new base machine purpose type](https://github.com/ivorisoutdoors/dotfiles/commit/0237e98327cdaafb8168e696b370fd5ff45e45d7) ([ivorisoutdoors/dotfiles](https://github.com/ivorisoutdoors/dotfiles))
+* 💻 Latest commit: [fix(brew): remove bundle tap](https://github.com/ivorisoutdoors/dotfiles/commit/6961bc5a0dcae5d56659c10c92668909c61267e0) ([ivorisoutdoors/dotfiles](https://github.com/ivorisoutdoors/dotfiles))
 
 ## Competencies
 
