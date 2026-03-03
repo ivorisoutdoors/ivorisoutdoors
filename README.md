@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [chore(init): update defaults for init](https://github.com/ivorisoutdoors/dotfiles/commit/64345be408b18d72f2336480353493c09972c232) ([ivorisoutdoors/dotfiles](https://github.com/ivorisoutdoors/dotfiles))
+* 💻 Latest commit: [refactor: add more rules to golangci-lint and address them (#178)](https://github.com/articulate/terraform-provider-ohdear/commit/1f6f83c40795a3f5887132f07dbcc90ffd9db719) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 ## Competencies
 
