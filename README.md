@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [ci: add goreleaser](https://github.com/ivorisoutdoors/gh-release-watcher/commit/22394cf2e90e683ebfaf635bf1c61ccc3c51a37f) ([ivorisoutdoors/gh-release-watcher](https://github.com/ivorisoutdoors/gh-release-watcher))
+* 💻 Latest commit: [chore(awscli): bump to 2.34.5 (#295)](https://github.com/articulate/docker-bootstrap/commit/e8a84966bebbc68517ea01876a4f82601784581d) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
 
 ## Competencies
 
