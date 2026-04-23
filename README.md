@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [fix(env): escape newlines in environment variable values (#300)](https://github.com/articulate/docker-bootstrap/commit/de4200d1dfa7b95202583f4e4ad5d1201364df92) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [chore(goreleaser): update config to publish prereleases (#308)](https://github.com/articulate/docker-bootstrap/commit/86f24085edebdbd094c42179dc0a2f9dd5d1146d) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
 
 ## Competencies
 
