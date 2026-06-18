@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [docs(readme): add notice that the provider is archived (#189)](https://github.com/articulate/terraform-provider-ohdear/commit/746bc8f43d6750a684a04e82d003b3136662bb71) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
+* 💻 Latest commit: [ci: adopt merge queue, auto-merge, and grouped dependabot (#29)](https://github.com/articulate/docker-elixir/commit/bc82188f03cbeb961411d808e918941d02d75a60) ([articulate/docker-elixir](https://github.com/articulate/docker-elixir))
 
 ## Competencies
 
