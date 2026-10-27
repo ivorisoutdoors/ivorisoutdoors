@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [chore: migrate dependency updates from Dependabot to Renovate (#153)](https://github.com/articulate/docker-node/commit/3a7fdff17bc5dcb3f5267a6febb29684f8ad073f) ([articulate/docker-node](https://github.com/articulate/docker-node))
+* 💻 Latest commit: [chore: deprecate elixir images and stop failing builds (#37)](https://github.com/articulate/docker-elixir/commit/1761f65aae688050ee6b9b1d93159d1db47a0ee8) ([articulate/docker-elixir](https://github.com/articulate/docker-elixir))
 
 ## Competencies
 
