@@ -10,7 +10,7 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [chore: move local dev tasks from make to mise (#355)](https://github.com/articulate/docker-bootstrap/commit/6af1d222b5f26d4afedbc951c11590debc0b8b67) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [deps: drop unused consul/api v2 requirement (#357)](https://github.com/articulate/docker-bootstrap/commit/644feeb1371c69ff36808b8b43a7c1393cbb584d) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
 
 ## Competencies
 
